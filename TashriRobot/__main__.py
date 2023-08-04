@@ -119,7 +119,7 @@ buttons = [
         InlineKeyboardButton(text="¢нαттιηg", url=f"https://t.me/{SUPPORT_CHAT}"),
         InlineKeyboardButton(text="му σƒƒιcє", url=f"https://t.me/miss_x_network"),
     ],
-
+]
 HELP_STRINGS = f"""
 » {BOT_NAME}  ¢ℓι¢к [.](https://graph.org/file/7d3f01482155b1e1eb344.jpg)  αηу вυттση вєℓσω тσ gєт кησωℓα∂gє ᴀʙᴏᴜᴛ ѕυρєя Cσммαη∂"""
 
