@@ -10,13 +10,13 @@ from TashriRobot import telethn as tgbot
 from TashriRobot.events import register
 
 edit_time = 5
-""" =======================❦Tashri࿐​​​​​​​​​​  𝐑𝐨𝐛𝐨𝐭====================== """
+""" =======================❦⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴࿐​​​​​​​​​​  𝐑𝐨𝐛𝐨𝐭====================== """
 file1 = "https://te.legra.ph/file/95b4d7a9a6cc9c7a191ac.jpg"
 file2 = "https://te.legra.ph/file/d5f6796456709ff9ec758.jpg"
 file3 = "https://te.legra.ph/file/b7ce8731d34ad225d72d3.jpg"
 file4 = "https://te.legra.ph/file/bea1baad55af57a7e7f2f.jpg"
 file5 = "https://te.legra.ph/file/dd94180292e8e6e4cda4c.jpg"
-""" =======================❦Tashri࿐​​​​​​​​​​  𝐑𝐨𝐛𝐨𝐭====================== """
+""" =======================❦⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴࿐​​​​​​​​​​  𝐑𝐨𝐛𝐨𝐭====================== """
 
 
 @register(pattern="/myinfo")
@@ -65,7 +65,7 @@ async def callback_query_handler(event):
     try:
         boy = event.sender_id
         PRO = await bot.get_entity(boy)
-        LILIE = "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ❦Tashri࿐​​​​​​​​​​  𝐑𝐨𝐛𝐨𝐭\n\n"
+        LILIE = "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ❦⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴࿐​​​​​​​​​​  𝐑𝐨𝐛𝐨𝐭\n\n"
         LILIE += f"ғɪʀsᴛ ɴᴀᴍᴇ: {PRO.first_name} \n"
         LILIE += f"ʟᴀsᴛ ɴᴀᴍᴇ: {PRO.last_name}\n"
         LILIE += f"ʏᴏᴜ ʙᴏᴛ : {PRO.bot} \n"
@@ -78,8 +78,8 @@ async def callback_query_handler(event):
 
 
 __command_list__ = ["myinfo"]
-__mod_name__ = "📍ɪɴғᴏ📍"
+__mod_name__ = "ɪɴғᴏ"
 __help__ = """
  /myinfo  ᴛᴏ ɢᴇᴛ ʏᴏᴜʀ ɪɴғᴏ 
 
-☆............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............☆"""
+☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/I_am_dead_smile)............☆"""
