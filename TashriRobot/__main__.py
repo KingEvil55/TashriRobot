@@ -78,56 +78,42 @@ PM_START_TEX = """
 
 PM_START_TEXT = """ 
 
-👀*ʜᴇʏ* {} , [Radhe राधे](https://te.legra.ph/file/48e7bc019fa24d81925d2.jpg)
+ʜᴇʏ ʙᴀʙʏ, 🖤
+   ᴛʜɪs ɪs ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ 🥀
 
-╔═══❰🌺𝐖𝐄𝐋𝐂𝐎𝐌𝐄🌺❱════❍⊱❁۪۪
-║
-║┣⪼♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗧𝗮𝘀𝗵𝗿𝗶♨️
-║
-╚═══❰★@Tashri2342★❱══❍⊱❁۪۪
+𝐈 𝐀𝐦 𝐀𝐧 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐀𝐧𝐝 𝐕𝐂 𝐏𝐥𝐚𝐲𝐞𝐫 𝐖𝐢𝐭𝐡 🕙 24𝐱7 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐆𝐫𝐨𝐮𝐩𝐬  𝐀𝐧𝐝  𝐂𝐡𝐚𝐧𝐧𝐞𝐥 😇
 
+𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 ⚡ 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠-𝐆𝐫𝐨𝐮𝐩 &   𝐏𝐥𝐚𝐲 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨
 
-🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 ♨️ 𝐀𝐧𝐝 🍒 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐆𝐫𝐨𝐮𝐩𝐬  🎸 𝐀𝐧𝐝 🏓  𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎻
-
-💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 ⚡ 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠-𝐆𝐫𝐨𝐮𝐩 &   𝐏𝐥𝐚𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷
-
-╔═════۩۞Tashri۞۩════╗
-      
-♥️═══[♥️ι ℓσνє уσυ ♥️](https://t.me/Tashri2342)═══♥                                                                                                                                                                                                 
-
-╚═════۩۞Tashri۞۩════╝
-
-☆..♥️...♥️❦Radhe Radhe!࿐☆♥️​​​​​​​​​​...♥️..☆ 
-"""
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="🎈α∂∂ мє ιη уσυ ¢нαт🎈",
+            text="α∂∂ мє ιη уσυ ¢нαт",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="♥️ѕυρєя мυѕι¢♥️", callback_data="Music_"),
+        InlineKeyboardButton(text="ѕυρєя мυѕι¢", callback_data="Music_"),
     ],
     [
-        InlineKeyboardButton(text="♥️ѕυρєя ¢σммαη∂ѕ♥️", callback_data="help_back"),
-        InlineKeyboardButton(text="♥️∂σηαтιση♥️", url=f"https://te.legra.ph/Donation-07-09")
+        InlineKeyboardButton(text="ѕυρєя ¢σммαη∂ѕ", callback_data="help_back"),
+        InlineKeyboardButton(text="∂σηαтιση", url=f"https://graph.org/file/83bd2fff634a900d8351a.jpg")
     ],
     [
         InlineKeyboardButton(text="♥¢нαттιηg♥", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="♥️му σƒƒιcє♥️", url=f"https://t.me/TashriBots"),
+        InlineKeyboardButton(text="му σƒƒιcє", url=f"https://t.me/miss_x_network"),
     ],
     [
-        InlineKeyboardButton(text="♥️𝙎𝙪𝙥𝙚𝙧🔸𝙎𝙤𝙪𝙧𝙘𝙚♥️", callback_data="Tashri_"),
+        InlineKeyboardButton(text="𝙎𝙪𝙥𝙚𝙧🔸𝙎𝙤𝙪𝙧𝙘𝙚", callback_data="Tashri_"),
     ],
 ]
 
 HELP_STRINGS = f"""
-» {BOT_NAME}  ♥️¢ℓι¢к♥️ [.](https://te.legra.ph/file/39ec1dc49919a6912a1e7.jpg)  αηу вυттση♦️ вєℓσω тσ gєт кησωℓα∂gє♥️ ᴀʙᴏᴜᴛ🧸 ѕυρєя 🔰¢σммαη∂"""
+» {BOT_NAME}  ♥️¢ℓι¢к♥️ [.](https://graph.org/file/7d3f01482155b1e1eb344.jpg)  αηу вυттση♦️ вєℓσω тσ gєт кησωℓα∂gє ᴀʙᴏᴜᴛ ѕυρєя 🔰¢σммαη∂"""
 
 DONATE_STRING = f"""
-[.](https://te.legra.ph/Donation-07-09)
+[.](te.legra.ph/file/39ec1dc49919a6912a1e7.jpg)
 🌟 **Thank you for considering a donation!** 🌟
 
 🎗 Your support means a lot to us and helps us continue our work. Together, we can make a difference! 🤝
@@ -136,13 +122,12 @@ DONATE_STRING = f"""
 
 1️⃣ **Contact Us:** Feel free to reach out to our dedicated team for more information or assistance. We're here to help! ✉️
 
-   - Support Group: @TashriChatting
-   - Channel: @TashriBots
-   - UPI ID: tashri2342@ybl
+   - Support Group: @Themortalclan
+   - Channel: @Miss_X_Network
 
-2️⃣ **Direct Donation:** You can directly contribute by clicking the button below[:](https://te.legra.ph/Donation-07-09)
+2️⃣ **Direct Donation:** You can directly contribute by clicking the button below[:](te.legra.ph/file/39ec1dc49919a6912a1e7.jpg)
 
-[♥️∂σηαтιση♥️](https://te.legra.ph/Donation-07-09)
+[♥️∂σηαтιση♥️](te.legra.ph/file/39ec1dc49919a6912a1e7.jpg)
 
 🙏 Your generous support will make a positive impact and help us create better bots. We are immensely grateful for your kindness and generosity. 😊❤️
 """
@@ -231,7 +216,7 @@ def start(update: Update, context: CallbackContext):
                     update.effective_chat.id,
                     HELPABLE[mod].__help__,
                     InlineKeyboardMarkup(
-                        [[InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="help_back")]]
+                        [[InlineKeyboardButton(text=" вαϲк ", callback_data="help_back")]]
                     ),
                 )
 
@@ -364,7 +349,7 @@ def help_button(update, context):
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="♥ ️вαϲк ♥️", callback_data="help_back")]]
+                    [[InlineKeyboardButton(text="♥ ️вαϲк ", callback_data="help_back")]]
                 ),
             )
 
@@ -425,30 +410,30 @@ def Tashri_about_callback(update: Update, context: CallbackContext):
 			"\n➲ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc."
 			"\n➲ I have a note-keeping system, blacklists, and even predetermined replies on certain keywords."
 			"\n\n🔥🌟🔥🌟🔥🌟🔥🌟🔥"
-			"\n☆............BY » Tashri............☆",
+			"\n☆............BY » ⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴............☆",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
                         InlineKeyboardButton(
-                            text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", url=f"https://t.me/Tashri2342"
+                            text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", url=f"https://t.me/i_am_dead_smile"
                         ),
                         InlineKeyboardButton(
                             text="✨𝐑𝐄𝐏𝐎✨", 
-							url="https://github.com/Tashri2342/TashriRobot",
+							url="https://github.com/KinGEvilHacker/TashriRobot",
                         ),
                     ],
 					[
                         InlineKeyboardButton(
-                            text="🚩sᴜᴩᴩᴏʀᴛ🚩", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="💗ᴜᴩᴅᴀᴛᴇs💓", url=f"https://t.me/Tashribots"
+                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/Miss_x_Network"
                         ),
 					],
                     [
-                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Tashri_back"),
+                        InlineKeyboardButton(text=" вαϲк ", callback_data="Tashri_back"),
                     ],
                 ]
             ),
@@ -469,7 +454,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "Music_":
         query.message.edit_text(
-            text=f"""**👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐲[.](https://te.legra.ph/file/74469cbd275fc6573546e.jpg) 🖤\n\n🌺𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {dispatcher.bot.first_name} 🍷\n\n🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎸 𝐀𝐧𝐝 🏓 𝐆𝐫𝐨𝐮𝐩𝐬 🎻\n\n💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷\n\n ☆............𝙱𝚈 » [Legend](https://t.me/Tashri2342)............☆ 💞**""",
+            text=f"""**👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐲[.](https://te.legra.ph/file/74469cbd275fc6573546e.jpg) 🖤\n\n🌺𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {dispatcher.bot.first_name} 🍷\n\n𝐈 𝐀𝐦 𝐀𝐧 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐕𝐂 𝐏𝐥𝐚𝐲𝐞𝐫  𝐖𝐢𝐭𝐡 🕙 24𝐱7 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐀𝐧𝐝 𝐆𝐫𝐨𝐮𝐩𝐬 🎻\n\n💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝  𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷\n\n ☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............☆ 💞**""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -477,53 +462,53 @@ def Music_about_callback(update: Update, context: CallbackContext):
                     [
                         
                 InlineKeyboardButton(
-                    text="🍁αԃɱιɳ🍁",
+                    text="αԃɱιɳ",
                     callback_data="Music_1",
                 ),
                 InlineKeyboardButton(
-                    text="🔺αυƭɦ🔺",
+                    text="αυƭɦ",
                     callback_data="Music_2",
                 ),
             
                 InlineKeyboardButton(
-                    text="♨️вℓσ¢к♨️",
+                    text="вℓσ¢к",
                     callback_data="Music_3",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="📣ɠ¢αʂƭ📣",
+                    text="ɠ¢αʂƭ",
                     callback_data="Music_4",
                 ),
                 InlineKeyboardButton(
-                    text="🚫ɠɓαɳ🚫",
+                    text="ɠɓαɳ",
                     callback_data="Music_5",
                 ),
                 InlineKeyboardButton(
-                    text="🍷ℓყɾเ¢ʂ🍷",
+                    text="ℓყɾเ¢ʂ",
                     callback_data="Music_6",
                 ),
             ],
             [
                 InlineKeyboardButton(
-                    text="🎙️քℓαყℓเʂƭ🎙️",
+                    text="քℓαყℓเʂƭ",
                     callback_data="Music_7",
                 ),
                 InlineKeyboardButton(
-                    text="🎸ѵσเ¢ε-¢ɦαƭ🎸",
+                    text="ѵσเ¢ε-¢ɦαƭ",
                     callback_data="Music_8",
                 ),
             ],
             [
            
                 InlineKeyboardButton(
-                    text="🕹️ρℓαყ🕹️",
+                    text="ρℓαყ",
                     callback_data="Music_9",
                 ),
             
             
                 InlineKeyboardButton(
-                    text="🍸ʂ𝖚∂σ🍸",
+                    text="ʂ𝖚∂σ",
                     callback_data="Music_10",
                 ),
             ],
@@ -534,14 +519,14 @@ def Music_about_callback(update: Update, context: CallbackContext):
                 ),
             ],
                     [
-                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Tashri_back"),
+                        InlineKeyboardButton(text=" вαϲк ", callback_data="Tashri_back"),
                     ],
                 ]
            ),
         )
     elif query.data == "Music_1":
         query.message.edit_text(
-            text=f"*» 💜ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ💜 «*"
+            text=f"*» ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅꜱ «*"
             f"""
 
 
@@ -559,21 +544,21 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /queue : sʜᴏᴡs ᴛʜᴇ ǫᴜᴇᴜᴇᴅ ᴛʀᴀᴄᴋs ʟɪsᴛ.
 
-💜............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............💜
+💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Music_"),
+                        InlineKeyboardButton(text=" вαϲк ", callback_data="Music_"),
                     ]
                 ]
             ),
         )
     elif query.data == "Music_2":
         query.message.edit_text(
-            text=f"*» 💜ᴀᴜᴛʜ ᴜsᴇʀs💜 «*"
+            text=f"*» ᴀᴜᴛʜ ᴜsᴇʀs «*"
             f"""
 
 ᴀᴜᴛʜ ᴜsᴇʀs ᴄᴀɴ ᴜsᴇ ᴀᴅᴍɪɴ ʀɪɢʜᴛs ɪɴ ᴛʜᴇ ʙᴏᴛ ᴡɪᴛʜᴏᴜᴛ ᴀᴅᴍɪɴ ʀɪɢʜᴛs ɪɴ ᴛʜᴇ ᴄʜᴀᴛ. [ᴀᴅᴍɪɴs ᴏɴʟʏ]
@@ -584,21 +569,21 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /authusers : sʜᴏᴡs ᴛʜᴇ ᴀᴜᴛʜ ᴜsᴇʀs ʟɪsᴛ ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-💜............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............💜
+💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Music_"),
+                        InlineKeyboardButton(text=" вαϲк ", callback_data="Music_"),
                     ]
                 ]
             ),
         )
     elif query.data == "Music_3":
         query.message.edit_text(
-            text=f"*» 💜ʙʟᴀᴄᴋʟɪsᴛ ᴄʜᴀᴛ💜 «*"
+            text=f"*» ʙʟᴀᴄᴋʟɪsᴛ ᴄʜᴀᴛ «*"
             f""" 
 
 ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
@@ -618,21 +603,21 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /blockedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs.
 
-💜............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............💜
+💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Music_"),
+                        InlineKeyboardButton(text=" вαϲк ", callback_data="Music_"),
                     ]
                 ]
             ),
         )
     elif query.data == "Music_4":
         query.message.edit_text(
-            text=f"*» 💜ʙʀᴏᴀᴅᴄᴀsᴛ ғᴇᴀᴛᴜʀᴇ💜 «*"
+            text=f"*» ʙʀᴏᴀᴅᴄᴀsᴛ ғᴇᴀᴛᴜʀᴇ «*"
             f"""
 
 /broadcast , /gcast  [ᴍᴇssᴀɢᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴍᴇssᴀɢᴇ] : ʙʀᴏᴀᴅᴄᴀsᴛ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ sᴇʀᴠᴇᴅ ᴄʜᴀᴛs ᴏғ ᴛʜᴇ ʙᴏᴛ.
@@ -647,21 +632,21 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 ᴇxᴀᴍᴩʟᴇ: /broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ
 
-💜............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............💜
+💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/KinGEvilHacker)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Music_"),
+                        InlineKeyboardButton(text=" вαϲк ", callback_data="Music_"),
                     ]
                 ]
             ),
         )
     elif query.data == "Music_5":
         query.message.edit_text(
-            text=f"*» 💜ɢʙᴀɴ ғᴇᴀᴛᴜʀᴇ💜 «*"
+            text=f"*» ɢʙᴀɴ ғᴇᴀᴛᴜʀᴇ «*"
             f"""
 
 /gban [ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ʀᴇᴩʟʏ ᴛᴏ ᴀ ᴄʜᴜᴛɪʏᴀ] : ɢʟᴏʙᴀʟʟʏ ʙᴀɴs ᴛʜᴇ ᴄʜᴜᴛɪʏᴀ ғʀᴏᴍ ᴀʟʟ ᴛʜᴇ sᴇʀᴠᴇᴅ ᴄʜᴀᴛs ᴀɴᴅ ʙʟᴀᴄᴋʟɪsᴛ ʜɪᴍ ғʀᴏᴍ ᴜsɪɴɢ ᴛʜᴇ ʙᴏᴛ.
@@ -670,21 +655,21 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /gbannedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇʀ ᴜsᴇʀs.
 
-💜............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............💜
+💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Music_"),
+                        InlineKeyboardButton(text=" вαϲк ", callback_data="Music_"),
                     ]
                 ]
             ),
         )
     elif query.data == "Music_6":
         query.message.edit_text(
-            text=f"*» 💜𝙻𝚈𝚁𝙸𝙲𝚂 & 𝚂𝙷𝙰𝚈𝚁𝙸 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂💜 «*"
+            text=f"*» 𝙻𝚈𝚁𝙸𝙲𝚂 & 𝚂𝙷𝙰𝚈𝚁𝙸 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 «*"
             f"""
 
 /loop [ᴅɪsᴀʙʟᴇ/ᴇɴᴀʙʟᴇ] ᴏʀ [ʙᴇᴛᴡᴇᴇɴ 1:10] 
@@ -707,14 +692,14 @@ def Music_about_callback(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Music_"),
+                        InlineKeyboardButton(text=" вαϲк ", callback_data="Music_"),
                     ]
                 ]
             ),
         )
     elif query.data == "Music_7":
         query.message.edit_text(
-            text=f"*» 💜ᴩʟᴀʏʟɪsᴛs ғᴇᴀᴛᴜʀᴇ💜 «*"
+            text=f"*» ᴩʟᴀʏʟɪsᴛs ғᴇᴀᴛᴜʀᴇ «*"
             f"""
 
 /playlist : ᴄʜᴇᴄᴋ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴩʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀs.
@@ -723,42 +708,42 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /play : sᴛᴀʀᴛs ᴩʟᴀʏɪɴɢ ғʀᴏᴍ ʏᴏᴜʀ sᴀᴠᴇᴅ ᴩʟᴀʏʟɪsᴛ ᴏɴ sᴇʀᴠᴇʀ.
 
-💜............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............💜
+💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Music_"),
+                        InlineKeyboardButton(text=" вαϲк ", callback_data="Music_"),
                     ]
                 ]
             ),
         )
     elif query.data == "Music_8":
         query.message.edit_text(
-            text=f"*» 💜 ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏᴄʜᴀᴛs 💜 «*"
+            text=f"*»  ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏᴄʜᴀᴛs  «*"
             f"""
 
 /activevoice : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴄᴛɪᴠᴇ ᴠᴏɪᴄᴇᴄʜᴀᴛs ᴏɴ ᴛʜᴇ ʙᴏᴛ.
 /activevideo : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴄᴛɪᴠᴇ ᴠɪᴅᴇᴏᴄʜᴀᴛs ᴏɴ ʙᴏᴛ.
 /autoend [ᴇɴᴀʙʟᴇ|ᴅɪsᴀʙʟᴇ] : ᴇɴᴀʙʟᴇ sᴛʀᴇᴀᴍ ᴀᴜᴛᴏ ᴇɴᴅ ɪғ ɴᴏ ᴏɴᴇ ɪs ʟɪsᴛᴇɴɪɴɢ.
 
-💜............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............💜
+💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Music_"),
+                        InlineKeyboardButton(text=" вαϲк ", callback_data="Music_"),
                     ]
                 ]
             ),
         )
     elif query.data == "Music_9":
         query.message.edit_text(
-            text=f"*» 💜 ᴩʟᴀʏ ғᴇᴀᴛᴜʀᴇ 💜 «*"
+            text=f"*»  ᴩʟᴀʏ ғᴇᴀᴛᴜʀᴇ  «*"
             f"""
 
 •c sᴛᴀɴᴅs ғᴏʀ ᴄʜᴀɴɴᴇʟ ᴩʟᴀʏ.
@@ -771,21 +756,21 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /channelplay [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ɪᴅ] ᴏʀ [ᴅɪsᴀʙʟᴇ] : ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴩ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʀᴀᴄᴋs ʙʏ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴄᴏᴍᴍᴀɴᴅs sᴇɴᴛ ɪɴ ɢʀᴏᴜᴩ.
 
-💜............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............💜
+💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="️ вαϲк ♥️", callback_data="Music_"),
+                        InlineKeyboardButton(text="️ вαϲк ", callback_data="Music_"),
                     ]
                 ]
             ),
         )
     elif query.data == "Music_10":
         query.message.edit_text(
-            text=f"*» 💜ɢᴇᴛ sᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ʙᴏᴛ💜 «*"
+            text=f"*» ɢᴇᴛ sᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ʙᴏᴛ «*"
             f"""
 
 🥶 ʜᴇʀᴏᴋᴜ :
@@ -807,21 +792,21 @@ def Music_about_callback(update: Update, context: CallbackContext):
 /logs [ɴᴜᴍʙᴇʀ ᴏғ ʟɪɴᴇs] : ɢᴇᴛ ʟᴏɢs ᴏғ ʏᴏᴜʀ ʙᴏᴛ [ᴅᴇғᴀᴜʟᴛ ᴠᴀʟᴜᴇ ɪs 100 ʟɪɴᴇs]
 
 
-💜............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............💜
+💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Music_"),
+                        InlineKeyboardButton(text=" вαϲк ", callback_data="Music_"),
                     ]
                 ]
             ),
         )
     elif query.data == "Music_11":
         query.message.edit_text(
-            text=f"*» 💜ɢᴇᴛ sᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ʙᴏᴛ💜 «*"
+            text=f"*» ɢᴇᴛ sᴛᴀʀᴛᴇᴅ ᴡɪᴛʜ ʙᴏᴛ «*"
             f"""
 
 /start : sᴛᴀʀᴛs ᴛʜᴇ ᴍᴜsɪᴄ ʙᴏᴛ.
@@ -834,13 +819,13 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 /sudolist : sʜᴏᴡs ᴛʜᴇ sᴜᴅᴏ ᴜsᴇʀs ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ.
 
-💜............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............💜""",
+💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............💜""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="Music_"),
+                        InlineKeyboardButton(text=" вαϲк ", callback_data="Music_"),
                     ]
                 ]
             ),
@@ -895,7 +880,7 @@ def get_help(update: Update, context: CallbackContext):
                     ],
                     [
                         InlineKeyboardButton(
-                            text="♨️𝐎𝐩𝐞𝐧 𝐇𝐞𝐫𝐞♨️",
+                            text="𝐎𝐩𝐞𝐧 𝐇𝐞𝐫𝐞",
                             callback_data="help_back",
                         )
                     ],
@@ -916,7 +901,7 @@ def get_help(update: Update, context: CallbackContext):
             chat.id,
             text,
             InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="♥️ вαϲк ♥️", callback_data="help_back")]]
+                [[InlineKeyboardButton(text=" вαϲк ", callback_data="help_back")]]
             ),
         )
 
@@ -1142,13 +1127,13 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://te.legra.ph/file/70a76621deec12e20b624.mp4",
+                animation="https://graph.org/file/15eebca737197323fe7cb.mp4",
                 caption=f"""
 {dispatcher.bot.first_name}
 
 ╔═════ஜ۩۞۩ஜ═════╗
 
-  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [Tashri](https://t.me/Tashri2342)♨️
+  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)♨️
   
 ╚═════ஜ۩۞۩ஜ═════╝
 """,
@@ -1193,7 +1178,7 @@ def main():
 
     dispatcher.add_error_handler(error_callback)
 
-    LOGGER.info("🌱𝐓𝐚𝐬𝐡𝐫𝐢𝐁𝐎𝐓🌷𝐒𝐓𝐀𝐑𝐓𝐄𝐃🌺𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐔🌱\n\n╔═════ஜ۩۞۩ஜ════╗\n\n♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝐓𝐚𝐬𝐡𝐫𝐢♨️\n\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER.info("🌱𝐓𝐚𝐬𝐡𝐫𝐢𝐁𝐎𝐓🌷𝐒𝐓𝐀𝐑𝐓𝐄𝐃🌺𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐔🌱\n\n╔═════ஜ۩۞۩ஜ════╗\n\n♨️𝗠𝗔𝗗𝗘 𝗕𝗬 ⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴♨️\n\n╚═════ஜ۩۞۩ஜ════╝")
     updater.start_polling(timeout=15, read_latency=4, clean=True)
 
     if len(argv) not in (1, 3, 4):
