@@ -17,10 +17,10 @@ PHOTO = [
     "https://graph.org/file/e602356bafe2799f708bd.jpg",
 ]
 
-ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ = [
+MissXRobotMusic = [
     [
-        InlineKeyboardButton(text="📍𝐎𝐰𝐧𝐞𝐫📍", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🍒𝐆𝐫𝐨𝐮𝐩🍒", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="𝐎𝐰𝐧𝐞𝐫", url=f"tg://user?id="1138802391"),
+        InlineKeyboardButton(text="𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
         InlineKeyboardButton(
