@@ -80,24 +80,10 @@ PM_START_TEXT = """
 
 👀*ʜᴇʏ* {} , [JAY SHREE RAM](https://graph.org/file/e602356bafe2799f708bd.jpg)
 
-╔═══❰🌺𝐖𝐄𝐋𝐂𝐎𝐌𝐄🌺❱════❍⊱❁۪۪
-║
-║┣⪼♨️𝗠𝗔𝗗𝗘 𝗕𝗬 ⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴
-║
-╚═══❰★t.me/i_am_dead_smile★❱══❍⊱❁۪۪
+𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐈 𝐀𝐦 ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ 😇
 
-
-🌹𝐈 𝐀𝐦 𝐀𝐧 📀 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 🎭 𝐀𝐧𝐝 🌱 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 🌼 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 ♨️ 𝐀𝐧𝐝 🍒 𝐕𝐂 🍄 𝐏𝐥𝐚𝐲𝐞𝐫 📣 𝐖𝐢𝐭𝐡 🕙 24𝐱7 🌀 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 🗨️ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ♨️ 𝐆𝐫𝐨𝐮𝐩𝐬  🎸 𝐀𝐧𝐝 🏓  𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🎻
-
-💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 ⚡ 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠-𝐆𝐫𝐨𝐮𝐩 &   𝐏𝐥𝐚𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷
-
-╔═════۩۞⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴۞۩════╗
-      
-♥️═══[ Boss ](https://t.me/i_am_dead_smile)═══♥                                                                                                                                                                                                 
-
-╚═════۩۞⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴۞۩════╝
-
-☆..♥️...♥️❦JAY MAHAKAAL!࿐☆♥️​​​​​​​​​​...♥️..☆ 
+𝐈 𝐀𝐦 𝐀𝐧 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐀𝐧𝐝 𝐕𝐂 𝐏𝐥𝐚𝐲𝐞𝐫 𝐖𝐢𝐭𝐡 🕙 24𝐱7 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐆𝐫𝐨𝐮𝐩𝐬 𝐀𝐧𝐝  𝐂𝐡𝐚𝐧𝐧𝐞𝐥
+𝐅𝐞𝐞𝐥 𝐋𝐚𝐠 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 ⚡ 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠-𝐆𝐫𝐨𝐮𝐩 &  𝐏𝐥𝐚𝐲 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨
 """
 
 
@@ -116,16 +102,12 @@ buttons = [
         InlineKeyboardButton(text="∂σηαтιση", url=f"https://graph.org/file/83bd2fff634a900d8351a.jpg")
     ],
     [
-        InlineKeyboardButton(text="♥¢нαттιηg♥", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="¢нαттιηg", url=f"https://t.me/{SUPPORT_CHAT}"),
         InlineKeyboardButton(text="му σƒƒιcє", url=f"https://t.me/miss_x_network"),
     ],
-    [
-        InlineKeyboardButton(text="𝙎𝙪𝙥𝙚𝙧🔸𝙎𝙤𝙪𝙧𝙘𝙚", callback_data="Tashri_"),
-    ],
-]
 
 HELP_STRINGS = f"""
-» {BOT_NAME}  ♥️¢ℓι¢к♥️ [.](https://graph.org/file/7d3f01482155b1e1eb344.jpg)  αηу вυттση♦️ вєℓσω тσ gєт кησωℓα∂gє ᴀʙᴏᴜᴛ ѕυρєя 🔰¢σммαη∂"""
+» {BOT_NAME}  ¢ℓι¢к [.](https://graph.org/file/7d3f01482155b1e1eb344.jpg)  αηу вυттση вєℓσω тσ gєт кησωℓα∂gє ᴀʙᴏᴜᴛ ѕυρєя Cσммαη∂"""
 
 DONATE_STRING = f"""
 [.](te.legra.ph/file/39ec1dc49919a6912a1e7.jpg)
@@ -142,7 +124,7 @@ DONATE_STRING = f"""
 
 2️⃣ **Direct Donation:** You can directly contribute by clicking the button below[:](te.legra.ph/file/39ec1dc49919a6912a1e7.jpg)
 
-[♥️∂σηαтιση♥️](te.legra.ph/file/39ec1dc49919a6912a1e7.jpg)
+[∂σηαтιση](te.legra.ph/file/39ec1dc49919a6912a1e7.jpg)
 
 🙏 Your generous support will make a positive impact and help us create better bots. We are immensely grateful for your kindness and generosity. 😊❤️
 """
@@ -432,11 +414,11 @@ def Tashri_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="🥀ᴅᴇᴠᴇʟᴏᴩᴇʀ🥀", url=f"https://t.me/i_am_dead_smile"
+                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"https://t.me/i_am_dead_smile"
                         ),
                         InlineKeyboardButton(
-                            text="✨𝐑𝐄𝐏𝐎✨", 
-							url="https://github.com/KinGEvilHacker/TashriRobot",
+                            text="𝐑𝐄𝐏𝐎", 
+							url="https://graph.org/file/9b0340dc3374bef96a162.mp4",
                         ),
                     ],
 					[
@@ -469,7 +451,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
     query = update.callback_query
     if query.data == "Music_":
         query.message.edit_text(
-            text=f"""**👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐲[.](https://te.legra.ph/file/74469cbd275fc6573546e.jpg) 🖤\n\n🌺𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {dispatcher.bot.first_name} 🍷\n\n𝐈 𝐀𝐦 𝐀𝐧 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐕𝐂 𝐏𝐥𝐚𝐲𝐞𝐫  𝐖𝐢𝐭𝐡 🕙 24𝐱7 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐀𝐧𝐝 𝐆𝐫𝐨𝐮𝐩𝐬 🎻\n\n💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝  𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷\n\n ☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............☆ 💞**""",
+            text=f"""**👀𝐇𝐞𝐲 𝐁𝐚𝐛𝐲[.](https://te.legra.ph/file/74469cbd275fc6573546e.jpg) 🖤\n\n🌺𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐓𝐨 {dispatcher.bot.first_name} 🍷\n\n𝐈 𝐀𝐦 𝐀𝐧 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐀𝐧𝐝 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐕𝐂 𝐏𝐥𝐚𝐲𝐞𝐫  𝐖𝐢𝐭𝐡 🕙 24𝐱7 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐀𝐧𝐝 𝐆𝐫𝐨𝐮𝐩𝐬\n\n𝐅𝐞𝐞𝐥 𝐋𝐚𝐠 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝  𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷\n\n ☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............☆ 💞**""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -529,7 +511,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
             ],
             [
                 InlineKeyboardButton(
-                    text="♥️💜♥️SƬΛᏒƬ♥️💜♥️",
+                    text="SƬΛᏒƬ",
                     callback_data="Music_11",
                 ),
             ],
@@ -647,7 +629,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 
 ᴇxᴀᴍᴩʟᴇ: /broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ
 
-💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/KinGEvilHacker)............💜
+💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............💜
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -833,8 +815,7 @@ def Music_about_callback(update: Update, context: CallbackContext):
 /settings : sʜᴏᴡs ᴛʜᴇ ɢʀᴏᴜᴩ sᴇᴛᴛɪɴɢs ᴡɪᴛʜ ᴀɴ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ ɪɴʟɪɴᴇ ᴍᴇɴᴜ.
 
 /sudolist : sʜᴏᴡs ᴛʜᴇ sᴜᴅᴏ ᴜsᴇʀs ᴏғ ᴍᴜsɪᴄ ʙᴏᴛ.
-
-💜............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............💜""",
+""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -1093,7 +1074,7 @@ def donate(update: Update, context: CallbackContext):
 
         if OWNER_ID != {OWNER_ID} and DONATION_LINK:
             update.effective_message.reply_text(
-                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [Tashri](https://t.me/Tashri2342)"
+                f"» ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)"
                 f"\n\nʙᴜᴛ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ᴛᴏ ᴛʜᴇ ᴩᴇʀsᴏɴ ᴄᴜʀʀᴇɴᴛʟʏ ʀᴜɴɴɪɴɢ ᴍᴇ : [ʜᴇʀᴇ]({DONATION_LINK})",
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
@@ -1145,12 +1126,6 @@ def main():
                 animation="https://graph.org/file/15eebca737197323fe7cb.mp4",
                 caption=f"""
 {dispatcher.bot.first_name}
-
-╔═════ஜ۩۞۩ஜ═════╗
-
-  ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)♨️
-  
-╚═════ஜ۩۞۩ஜ═════╝
 """,
                 parse_mode=ParseMode.MARKDOWN,
             )
@@ -1193,7 +1168,7 @@ def main():
 
     dispatcher.add_error_handler(error_callback)
 
-    LOGGER.info("🌱𝐓𝐚𝐬𝐡𝐫𝐢𝐁𝐎𝐓🌷𝐒𝐓𝐀𝐑𝐓𝐄𝐃🌺𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐔🌱\n\n╔═════ஜ۩۞۩ஜ════╗\n\n♨️𝗠𝗔𝗗𝗘 𝗕𝗬 ⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴♨️\n\n╚═════ஜ۩۞۩ஜ════╝")
+    LOGGER.info("🌱ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐔🌱\n\n╔═════ஜ۩۞۩ஜ════╗\n\n♨️𝗠𝗔𝗗𝗘 𝗕𝗬 ⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴\n\n╚═════ஜ۩۞۩ஜ════╝")
     updater.start_polling(timeout=15, read_latency=4, clean=True)
 
     if len(argv) not in (1, 3, 4):
