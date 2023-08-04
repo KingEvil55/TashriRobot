@@ -317,7 +317,7 @@ dispatcher.add_handler(BRAINANIMATION_HANDLER)
 
 __help__ = """
 
- ©️ [Tashri] (f"tg://user?id={OWNER_ID}"))                                           
+ ©️ [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴] (f"tg://user?id={OWNER_ID}"))                                           
 *ғᴀᴋᴇ ᴀɴɪᴍᴀᴛɪᴏɴ ᴄᴏᴍᴍᴀɴᴅ*
  ❍ /love - ᴜsᴇ ɪᴛ ɪғ ᴜ ʜᴀᴠᴇ ɢɪʀʟғʀɪᴇɴᴅ
  ❍ /hack -  ᴛᴏ ʜᴀᴄᴋ ᴀɴʏ ᴜsᴇʀ ᴛᴇʟᴇɢʀᴀᴍ ɪᴅ
@@ -326,6 +326,6 @@ __help__ = """
  ❍ /bombs -  ᴛᴏ sᴜᴄɪᴅᴇ ᴜʀsᴇʟғ
  ❍ /police - ᴛᴏ ᴄᴀʟʟ ᴍᴀsᴛᴇʀᴍɪɴᴅ ᴘᴏʟɪᴄᴇ
  
-☆............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............☆
+☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............☆
 """
-__mod_name__ = "♨️ɢᴀᴍᴇ♨️"
+__mod_name__ = "ɢᴀᴍᴇ"
