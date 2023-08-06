@@ -63,9 +63,9 @@ dispatcher.add_handler(SPEED_TEST_CALLBACKHANDLER)
 __help__ = """
 » /speedtest *:* ʀᴜɴs ᴀ sᴘᴇᴇᴅᴛᴇsᴛ ᴀɴᴅ ᴄʜᴇᴄᴋ ᴛʜᴇ sᴇʀᴠᴇʀ sᴘᴇᴇᴅ.
 
-☆............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............☆
+☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/I_am_dead_smile)............☆
 """
 
-__mod_name__ = "⚡SᴘᴇᴇᴅTᴇsᴛ⚡​"
+__mod_name__ = "SᴘᴇᴇᴅTᴇsᴛ​"
 __command_list__ = ["speedtest"]
 __handlers__ = [SPEED_TEST_HANDLER, SPEED_TEST_CALLBACKHANDLER]
