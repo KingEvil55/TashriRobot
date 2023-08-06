@@ -8,7 +8,7 @@
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/Tashri2342/TashriRobot",
+   "repository": "https://github.com/KinGEvilHacker/TashriRobot",
    "stack": "heroku-22",
    "addons": [
       {
