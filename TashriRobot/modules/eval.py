@@ -134,12 +134,12 @@ dispatcher.add_handler(EVAL_HANDLER)
 dispatcher.add_handler(EXEC_HANDLER)
 dispatcher.add_handler(CLEAR_HANDLER)
 
-__mod_name__ = "⚡ᴇᴠᴀʟ⚡"
+__mod_name__ = "ᴇᴠᴀʟ"
 __help__ = """
 ★ᴏᴡɴᴇʀ ᴄᴍᴅ ★
 ★ /eval :- to evaluate simple code
 ★ /ex :-  to execute code
 ★ /clear :- to run clear cmd
 
-☆............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............☆
+☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/I_am_dead_smile)............☆
 """
