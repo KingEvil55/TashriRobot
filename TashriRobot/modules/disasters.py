@@ -630,7 +630,7 @@ __help__ = f"""
 `⚠️ ʀᴇᴀᴅ ғʀᴏᴍ ᴛᴏᴘ`
 ᴠɪsɪᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](f"https://t.me{SUPPORT_CHAT}") ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.
 
-☆............𝙱𝚈 » [Tashri](f"https://t.me/Tashri2342")............☆
+☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](f"https://t.me/i_am_dead_smile")............☆
 """
 
 SUDO_HANDLER = CommandHandler("addsudo", addsudo)
@@ -663,7 +663,7 @@ dispatcher.add_handler(SUPPORTLIST_HANDLER)
 dispatcher.add_handler(SUDOLIST_HANDLER)
 dispatcher.add_handler(DEVLIST_HANDLER)
 
-__mod_name__ = "♨️ᴅᴇᴠꜱ♨️"
+__mod_name__ = "ᴅᴇᴠꜱ"
 __handlers__ = [
     SUDO_HANDLER,
     SUPPORT_HANDLER,
