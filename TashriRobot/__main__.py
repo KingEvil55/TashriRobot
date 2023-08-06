@@ -97,23 +97,23 @@ Hey 👋 My Name Is ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ
 
         ⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴
 
-☆..♥️...♥️❦Radhe Radhe!࿐☆♥️​​​​​​​​​​...♥️..☆ 
+☆..♥️...♥️❦Jay Mahakaal!࿐☆♥️​​​​​​​​​​...♥️..☆ 
 """
 
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="α∂∂ мє ιη уσυ ¢нαт",
+            text="Aᴅᴅ Mᴇ Iɴ Yᴏᴜʀ Cʜᴀᴛ",
             url=f"https://t.me/{dispatcher.bot.username}?startgroup=true",
         ),
     ],
     [
-        InlineKeyboardButton(text="ѕυρєя мυѕι¢", callback_data="Music_"),
+        InlineKeyboardButton(text="мυѕι¢ ¢σммαη∂ѕ", callback_data="Music_"),
     ],
     [
-        InlineKeyboardButton(text="ѕυρєя ¢σммαη∂ѕ", callback_data="help_back"),
-        InlineKeyboardButton(text="∂σηαтιση", url=f"https://graph.org/file/83bd2fff634a900d8351a.jpg")
+        InlineKeyboardButton(text="¢σммαη∂ѕ", callback_data="help_back"),
+        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ ᴍᴏɪ ᴍᴀsᴛᴇʀ", url=f"https://t.me/aboutError404")
     ],
     [
         InlineKeyboardButton(text="¢нαттιηg", url=f"https://t.me/{SUPPORT_CHAT}"),
@@ -254,11 +254,11 @@ def start(update: Update, context: CallbackContext):
                 PM_START_TEX.format(usr.first_name), parse_mode=ParseMode.MARKDOWN
             )
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠😘")
+            lol.edit_text("ʟᴜᴋᴏ sᴛᴀʟᴛ Hᴏ ʟᴀʜɪ ʜᴜ😘")
             time.sleep(0.4)
             lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠😘😘")
             time.sleep(0.4)
-            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠😘😘😘 ")
+            lol.edit_text("𝐒𝐭𝐚𝐫𝐭𝐢𝐧𝐠 ")
             time.sleep(0.4)
             lol.delete()
             
