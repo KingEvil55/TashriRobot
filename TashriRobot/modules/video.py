@@ -105,9 +105,9 @@ async def ytmusic(client, message: Message):
             os.remove(files)
 
 
-__mod_name__ = "⚡ᴠɪᴅᴇᴏ⚡"
+__mod_name__ = "ᴠɪᴅᴇᴏ"
 __help_ = """ 
 /video to download video song
 /vsong to download video song 
 
-☆............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............☆"""
+☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/I_am_dead_smile)............☆"""
