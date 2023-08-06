@@ -20,12 +20,12 @@ async def carbon_func(_, message):
     carbon.close()
 
 
-__mod_name__ = "♨️Cᴀʀʙᴏɴ♨️"
+__mod_name__ = "Cᴀʀʙᴏɴ"
 
 __help__ = """
 ᴍᴀᴋᴇs ᴀ ᴄᴀʀʙᴏɴ ᴏғ ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ ᴀɴᴅ sᴇɴᴅ ɪᴛ ᴛᴏ ʏᴏᴜ.
 
 ❍ /carbon *:* ᴍᴀᴋᴇs ᴄᴀʀʙᴏɴ ɪғ ʀᴇᴩʟɪᴇᴅ ᴛᴏ ᴀ ᴛᴇxᴛ
 
-☆............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............☆
+☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/I_am_dead_smile)............☆
  """
