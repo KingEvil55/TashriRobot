@@ -31,10 +31,10 @@ __help__ = """
 • /snipe <ᴄʜᴀᴛɪᴅ> <sᴛʀɪɴɢ>
 ᴍᴀᴋᴇ ᴍᴇ sᴇɴᴅ ᴀ ᴍᴇssᴀɢᴇ ᴛᴏ ᴀ sᴘᴇᴄɪғɪᴄ ᴄʜᴀᴛ.
 
-☆............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............☆
+☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/I_am_dead_smile)............☆
 """
 
-__mod_name__ = "⚡sɴɪᴘᴇ⚡"
+__mod_name__ = "sɴɪᴘᴇ"
 
 SNIPE_HANDLER = CommandHandler(
     "snipe", snipe, pass_args=True, filters=CustomFilters.dev_filter
