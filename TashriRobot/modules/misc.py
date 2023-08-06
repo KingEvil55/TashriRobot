@@ -100,7 +100,7 @@ __help__ = """
  `/ᴄᴀsʜ 1 ᴜsᴅ ɪɴʀ`
 ᴏᴜᴛᴘᴜᴛ: `1.0 ᴜsᴅ = 75.505 ɪɴʀ`
 
-☆............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............☆
+☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/I_am_dead_smile)............☆
 """
 
 ECHO_HANDLER = DisableAbleCommandHandler("echo", echo, filters=Filters.group)
@@ -109,7 +109,7 @@ MD_HELP_HANDLER = CommandHandler("markdownhelp", markdown_help)
 dispatcher.add_handler(ECHO_HANDLER)
 dispatcher.add_handler(MD_HELP_HANDLER)
 
-__mod_name__ = "📍Exᴛʀᴀs📍"
+__mod_name__ = "Exᴛʀᴀs"
 __command_list__ = ["id", "echo"]
 __handlers__ = [
     ECHO_HANDLER,
