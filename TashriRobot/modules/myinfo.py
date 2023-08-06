@@ -10,13 +10,13 @@ from TashriRobot import telethn as tgbot
 from TashriRobot.events import register
 
 edit_time = 5
-""" =======================❦⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴࿐​​​​​​​​​​  𝐑𝐨𝐛𝐨𝐭====================== """
-file1 = "https://te.legra.ph/file/95b4d7a9a6cc9c7a191ac.jpg"
-file2 = "https://te.legra.ph/file/d5f6796456709ff9ec758.jpg"
-file3 = "https://te.legra.ph/file/b7ce8731d34ad225d72d3.jpg"
-file4 = "https://te.legra.ph/file/bea1baad55af57a7e7f2f.jpg"
-file5 = "https://te.legra.ph/file/dd94180292e8e6e4cda4c.jpg"
-""" =======================❦⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴࿐​​​​​​​​​​  𝐑𝐨𝐛𝐨𝐭====================== """
+""" =======================❦ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ====================== """
+file1 = "https://graph.org/file/83ec2821355336e588265.jpg"
+file2 = "https://graph.org/file/c4dc510f7532f842f59bb.jpg"
+file3 = "https://graph.org/file/75196b8e864cf0cd4046f.jpg"
+file4 = "https://graph.org/file/c0b2daa066d96d61571e4.jpg"
+file5 = "https://graph.org/file/704f892c63d58e6f12a80.jpg"
+""" =======================❦ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ====================== """
 
 
 @register(pattern="/myinfo")
