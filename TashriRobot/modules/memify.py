@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw, ImageFont
 from TashriRobot import telethn as bot
 from TashriRobot.events import register
 
-Credit = "Tashri"
+Credit = "ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ"
 
 
 @register(pattern="^/mmf ?(.*)")
