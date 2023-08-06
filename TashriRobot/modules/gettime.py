@@ -99,13 +99,13 @@ __help__ = """
 
 💡 ᴇx:- /time ɪɴ *:* ɪᴛ ᴡɪʟʟ sʜᴏᴡs ɪɴᴅɪᴀɴ ᴄᴜʀʀᴇɴᴛ ᴛɪᴍᴇ ᴀɴᴅ ᴅᴀᴛᴇ..
 
-☆............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............☆
+☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)............☆
 """
 
 TIME_HANDLER = DisableAbleCommandHandler("time", gettime)
 
 dispatcher.add_handler(TIME_HANDLER)
 
-__mod_name__ = "📍Tɪᴍᴇ📍"
+__mod_name__ = "Tɪᴍᴇ"
 __command_list__ = ["time"]
 __handlers__ = [TIME_HANDLER]
