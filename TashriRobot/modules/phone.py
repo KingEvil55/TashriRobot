@@ -7,12 +7,12 @@ from TashriRobot import dispatcher
 from TashriRobot.modules.helper_funcs.alternate import send_message
 from TashriRobot.modules.helper_funcs.chat_status import user_admin
 
-__mod_name__ = "📍𝙿ʜᴏɴᴇ📍"
+__mod_name__ = "𝙿ʜᴏɴᴇ"
 __help__ = """
 » /phone ꜰɪʟʟ ᴀɴʏ ᴍᴏʙɪʟᴇ ɴᴜᴍʙᴇʀ ᴛᴏ ᴄʜᴇᴄᴋ ɪɴꜰᴏ.
 
 
-☆............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............☆"""
+☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/I_am_dead_smile)............☆"""
 
 
 @run_async
