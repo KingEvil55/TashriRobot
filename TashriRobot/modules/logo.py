@@ -234,11 +234,11 @@ LOGO_LINKS = [
     "https://telegra.ph/file/0859e0104c671bc9b6b7d.jpg",
     "https://telegra.ph/file/b3af2980caf7040702171.jpg",
     "https://telegra.ph/file/14be160df3b84c59e268e.jpg",
-    "https://telegra.ph/file/b958155e1e8e9ab9a0416.jpg",
-    "https://telegra.ph/file/24fff051c39b815e5078a.jpg",
-    "https://telegra.ph/file/258c02c002e89287d5d9b.jpg",
-    "https://telegra.ph/file/d2abc99773a9d4954c2ba.jpg",
-    "https://telegra.ph/file/9849b3940f063b065f4e3.jpg",
+    "https://graph.org/file/528d3118d8d8bd8a2cef9.jpg",
+    "https://graph.org/file/c0b2daa066d96d61571e4.jpg",
+    "https://graph.org/file/83ec2821355336e588265.jpg",
+    "https://graph.org/file/75196b8e864cf0cd4046f.jpg",
+    "https://graph.org/file/c4dc510f7532f842f59bb.jpg",
 ]
 
 
@@ -319,10 +319,10 @@ async def lego(event):
             os.remove(fname)
 
 
-__mod_name__ = "📍ʟᴏɢᴏ📍"
+__mod_name__ = "ʟᴏɢᴏ"
 
 __help__ = """
 @TashriRobot ᴄᴀɴ ᴄʀᴇᴀᴛᴇ sᴏᴍᴇ ʙᴇᴀᴜᴛɪғᴜʟ ᴀɴᴅ ᴀᴛᴛʀᴀᴄᴛɪᴠᴇ ʟᴏɢᴏ ғᴏʀ ʏᴏᴜʀ ᴘʀᴏғɪʟᴇ ᴘɪᴄs.
- 𝗣𝗼𝘄𝗲𝗿𝗱𝗲𝗱 𝗯𝘆 ♥︎  @Tashri2342
+ 𝗣𝗼𝘄𝗲𝗿𝗱𝗲𝗱 𝗯𝘆 ♥︎  ⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile
 ❍ /logo (Text) *:* Create a logo of your given text with random view.
 """
