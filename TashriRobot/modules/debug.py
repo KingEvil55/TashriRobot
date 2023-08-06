@@ -66,11 +66,11 @@ dispatcher.add_handler(LOG_HANDLER)
 DEBUG_HANDLER = CommandHandler("debug", debug)
 dispatcher.add_handler(DEBUG_HANDLER)
 
-__mod_name__ = "♨️ᴅᴇʙᴜɢ♨️"
+__mod_name__ = "ᴅᴇʙᴜɢ"
 __help__ = """
 /logs    ᴛᴏ ɢᴇᴛ ʜᴇʀᴜᴋᴏ ʟᴏɢs
 /debug ᴛᴏ ᴏɴ / ᴏғғ ᴅᴇʙᴜɢ 
 
-☆............𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............☆"""
+☆............𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/I_am_dead_smile)............☆"""
 __command_list__ = ["debug"]
 __handlers__ = [DEBUG_HANDLER]
