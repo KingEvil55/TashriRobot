@@ -54,7 +54,7 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.8)
     await m.reply_photo(
         lol,
-        caption=f"""**ʜᴇʏ, ɪ ᴀᴍ♥️ 『[ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ ](f"t.me/{BOT_USERNAME}")』**
+        caption=f"""**ʜᴇʏ, ɪ ᴀᴍ♥️『[ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ](f"t.me/{BOT_USERNAME}")』**
    ♥️
   » ᴍʏ ᴏᴡɴᴇʀ : [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/i_am_dead_smile)
   
