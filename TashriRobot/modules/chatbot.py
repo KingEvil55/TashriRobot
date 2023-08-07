@@ -97,8 +97,8 @@ def fallen(update: Update, context: CallbackContext):
     keyboard = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton(text="📍ᴇɴᴀʙʟᴇ📍", callback_data="add_chat({})"),
-                InlineKeyboardButton(text="📍ᴅɪsᴀʙʟᴇ📍", callback_data="rm_chat({})"),
+                InlineKeyboardButton(text="ᴇɴᴀʙʟᴇ", callback_data="add_chat({})"),
+                InlineKeyboardButton(text="ᴅɪsᴀʙʟᴇ", callback_data="rm_chat({})"),
             ],
         ]
     )
@@ -136,9 +136,9 @@ def chatbot(update: Update, context: CallbackContext):
         bot.send_chat_action(chat_id, action="typing")
         text = message.text.lower()
         if "Tera baap Kon" in text:
-            message.reply_text("Mera Baap @Tashri2342 hai")
+            message.reply_text("Mera Baap ⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴ hai")
         elif "Who is you father?" in text:
-            message.reply_text("My father is @Tashri2342.")
+            message.reply_text("My father is @⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴.")
         elif "Prerna" in text:
             message.reply_text("Hay Kis sunderi kaa naam le diya")
         elif "Tashri" in text:
@@ -147,7 +147,7 @@ def chatbot(update: Update, context: CallbackContext):
             message.reply_text("Radhe Radhe!")
         else:
             request = requests.get(
-                f"https://fallenxbot.vercel.app/api/apikey=6126200262-fallen-wfzo44ozfw/fallen/Anonymous/message={message.text}"
+                f"https://fallenxbot.vercel.app/api/apikey=1138802391-fallen-lvew99wevl/fallen/Anonymous/message={message.text}"
             )
             results = json.loads(request.text)
             sleep(0.5)
