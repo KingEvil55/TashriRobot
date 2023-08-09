@@ -337,16 +337,16 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/Tashri2342"
+                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/I_am_dead_smile"
                             ),
                             InlineKeyboardButton(
-                                "Dɪsᴀsᴛᴇʀ", url="https://t.me/TashriChatting"
+                                "Dɪsᴀsᴛᴇʀ", url="https://t.me/errorBots_network/56"
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🎈α∂∂ мє ιη уσυ ¢нαт🎈",
-                                url=f"https://t.me/tg_manager_robot?startgroup=true",
+                                text="α∂∂ мє ιη уσυ ¢нαт",
+                                url=f"https://t.me/MissRobotxMusicBot?startgroup=true",
                             ),
                         ],
                     ]
@@ -363,16 +363,16 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/Tashri2342"
+                                "ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/I_am_dead_smile"
                             ),
                             InlineKeyboardButton(
-                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/vip_creators"
+                                "ᴅɪsᴀsᴛᴇʀ", url="https://t.me/errorBots_network/58"
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="➕ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ➕",
-                                url=f"https://t.me/tg_manager_robot?startgroup=true",
+                                url=f"https://t.me/MissRobotxMusicBot?startgroup=true",
                             ),
                         ],
                     ]
