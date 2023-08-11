@@ -84,7 +84,7 @@ PM_START_TEXT = """
 ║
 ┣⪼𝗠𝗔𝗗𝗘 𝗕𝗬 ⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴
 😇                      😇
-       [About Me](t.me/AboutError404)
+       [About Me](t.me/iitz_me)
 
 Hey 👋 My Name Is ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ
 𝐈 𝐀𝐦 𝐀𝐧 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝  𝐀𝐧𝐝 𝐒𝐮𝐩𝐞𝐫𝐟𝐚𝐬𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭  𝐀𝐧𝐝 𝐕𝐂 𝐏𝐥𝐚𝐲𝐞𝐫 𝐖𝐢𝐭𝐡 24𝐱7 𝐀𝐜𝐭𝐢𝐯𝐞 » 𝐅𝐨𝐫 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐆𝐫𝐨𝐮𝐩𝐬  𝐀𝐧𝐝 𝐂𝐡𝐚𝐧𝐧𝐞𝐥
@@ -93,7 +93,7 @@ Hey 👋 My Name Is ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ
 
         ⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴
       
-        😇[Find Me](https://t.me/AboutError404)                                                                                                                                                                                                
+        😇[Find Me](https://t.me/iitz_me)                                                                                                                                                                                                
 
         ⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴
 
@@ -113,7 +113,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="¢σммαη∂ѕ", callback_data="help_back"),
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ ᴍᴏɪ ᴍᴀsᴛᴇʀ", url=f"https://t.me/aboutError404")
+        InlineKeyboardButton(text="ᴍᴏɪ ᴍᴀsᴛᴇʀ", url=f"https://t.me/I_am_dead_smile")
     ],
     [
         InlineKeyboardButton(text="¢нαттιηg", url=f"https://t.me/{SUPPORT_CHAT}"),
