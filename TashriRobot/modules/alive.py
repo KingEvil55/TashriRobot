@@ -10,17 +10,17 @@ from telethon import __version__ as tver
 from TashriRobot import SUPPORT_CHAT, pbot,BOT_USERNAME, OWNER_ID
 
 PHOTO = [
-    "https://te.legra.ph/file/95b4d7a9a6cc9c7a191ac.jpg",
-    "https://te.legra.ph/file/d5f6796456709ff9ec758.jpg",
-    "https://te.legra.ph/file/b7ce8731d34ad225d72d3.jpg",
-    "https://te.legra.ph/file/bea1baad55af57a7e7f2f.jpg",
-    "https://te.legra.ph/file/dd94180292e8e6e4cda4c.jpg",
+    "https://graph.org/file/7d3f01482155b1e1eb344.jpg",
+    "https://graph.org/file/c0b2daa066d96d61571e4.jpg",
+    "https://graph.org/file/75196b8e864cf0cd4046f.jpg",
+    "https://graph.org/file/c4dc510f7532f842f59bb.jpg",
+    "https://graph.org/file/83ec2821355336e588265.jpg",
 ]
 
 Tashri = [
     [
-        InlineKeyboardButton(text="📍𝐎𝐰𝐧𝐞𝐫📍", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="🍒𝐆𝐫𝐨𝐮𝐩🍒", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="𝐎𝐰𝐧𝐞𝐫", url=f"tg://user?id={OWNER_ID}"),
+        InlineKeyboardButton(text="𝐆𝐫𝐨𝐮𝐩", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
         InlineKeyboardButton(
@@ -30,7 +30,7 @@ Tashri = [
     ],
 ]
 
-lol = "https://te.legra.ph/file/d5f6796456709ff9ec758.jpg"
+lol = "https://graph.org/file/704f892c63d58e6f12a80.jpg"
 
 
 @pbot.on_message(filters.command("alive"))
@@ -38,7 +38,7 @@ async def restart(client, m: Message):
     await m.delete()
     accha = await m.reply("⚡")
     await asyncio.sleep(0.5)
-    await accha.edit("Radhe Radhe..")
+    await accha.edit("Jay Shree Ram 🙏🚩..")
     await asyncio.sleep(0.5)
     await accha.edit("Radhe Krishna......")
     await asyncio.sleep(0.5)
@@ -54,9 +54,9 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.8)
     await m.reply_photo(
         lol,
-        caption=f"""**ʜᴇʏ, ɪ ᴀᴍ♥️ 『[❦Tashri࿐​​​​​​​​​​ ](f"t.me/{BOT_USERNAME}")』**
+        caption=f"""**ʜᴇʏ, ɪ ᴀᴍ♥️ 『[ᴍɪss 𝐑σႦσ𝐓 ✗ ᴍᴜꜱɪᴄ ](f"t.me/{BOT_USERNAME}")』**
    ♥️💛💚💜🧡♥️💜💛💚💛♥️💛
-  » ᴍʏ ᴏᴡɴᴇʀ : [Tashri](https://t.me/Tashri2342)
+  » ᴍʏ ᴏᴡɴᴇʀ : [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/I_am_dead_smile)
   
   
   » ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ : {tver}
@@ -67,10 +67,10 @@ async def restart(client, m: Message):
    ♥️💛💚💜🧡♥️💜💛💚💛♥️💛""",                                                
         reply_markup=InlineKeyboardMarkup(Tashri),
     )
-__mod_name__ = "♨️ᴀʟɪᴠᴇ♨️"
+__mod_name__ = "ᴀʟɪᴠᴇ"
 __help__ = """
 
 *ᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs*:
 » /alive*:* ᴛᴏ ᴄʜᴇᴀᴋ ❓  ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ?
 
-☆............©️𝙱𝚈 » [Tashri](https://t.me/Tashri2342)............☆"""
+☆............©️𝙱𝚈 » [⚠ᙓᖇᖇටᖇ︵⚠⁴⁰⁴](https://t.me/I_am_dead_smile)............☆"""
